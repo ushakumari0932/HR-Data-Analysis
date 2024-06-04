@@ -27,6 +27,7 @@ Job Satisfaction: Employee's satisfaction level with their job (e.g., on a scale
 
 **
 Key Findings**
+
 Attrition Trends: Younger, lower-level, and less satisfied employees are more likely to leave.
 Income Analysis: Higher job levels correlate with higher incomes; lower income correlates with dissatisfaction.
 Satisfaction Insights: Shorter commutes increase job satisfaction.
@@ -38,12 +39,14 @@ Power BI: Visualization and insights.
 Statistical Analysis: Identifying significant factors.
 
 **Tools and Technologies**
+
 Power BI
 SQL
 Excel
 
 **
 Key Tasks**
+
 Filter dataset for employees aged 30+.
 Pivot table for average Monthly Income by Job Role.
 Conditional formatting for above-average income.
@@ -63,4 +66,5 @@ What-If analysis for salary hikes.
 Validate and clean data schema.
 
 **Conclusion**
+
 The analysis provides insights to enhance workforce management, identifying key factors affecting employee behavior and performance for targeted interventions.
